@@ -18,8 +18,4 @@ public class Bai9_LuyThua {
         int sm = sc.nextInt();
         System.out.println(cs + " ^ " + sm + " = " + Math.pow(cs, sm));
     }
-<<<<<<< HEAD
 }
-=======
-}
->>>>>>> a6facb55d355ebafa38630f4f3ce5e916cd56960
